@@ -9,17 +9,6 @@
 # 内容介绍（1.0.0）
   - **新增物品和方块**
     ![物品栏展示](./images/01.png)
-    - `0个` ![zero](./images/zero.png)
-    - `1个` ![one](./images/one.png)
-    - `2个` ![two](./images/two.png)
-    - `3个` ![three](./images/three.png)
-    - `4个` ![four](./images/four.png)
-    - `5个` ![five](./images/five.png)
-    - `6个` ![six](./images/six.png)
-    - `7个` ![seven](./images/seven.png)
-    - `8个` ![eight](./images/eight.png)
-    - `9个` ![nine](./images/nine.png)
-    - `摩` ![mol](./images/mol.png)
   - **加法运算**
     - 工作台无序合成
     - 仅限两个加数的加法运算
@@ -43,5 +32,5 @@
     - 需要“老登稿”或钻石镐及以上稿子采集
     - 老登矿石会稳定掉落3个“1个”物品
       ![矿石展示1](./images/08.png)
-      ![矿石展示2](./images/09/png)
+      ![矿石展示2](./images/09.png)
   
