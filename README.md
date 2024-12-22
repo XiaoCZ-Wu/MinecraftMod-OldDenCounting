@@ -9,6 +9,10 @@
 
 **本模组仅用作研究、学习使用，不可用于其他用途！**
 
+[仓库地址](https://github.com/XiaoCZ-Wu/MinecraftMod-OldDenCounting)
+
+最后编辑于2024/12/22
+
 </div>
 
 ***正在制作中的内容：***
