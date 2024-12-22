@@ -33,7 +33,6 @@
   | 7个  | ![seven.png](./images/seven.png) |  7   | 个7  | ![m_seven.png](./images/m_seven.png) |  -7  |
   | 8个  | ![eight.png](./images/eight.png) |  8   | 个8  | ![m_eight.png](./images/m_eight.png) |  -8  |
   | 9个  |  ![nine.png](./images/nine.png)  |  9   | 个9  |  ![m_nine.png](./images/m_nine.png)  |  -9  |
-  |      |                                  |      |      |                                      |      |
 
 - 运算物品：
 
